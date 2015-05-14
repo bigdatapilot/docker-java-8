@@ -1,5 +1,3 @@
-# Version 1.1
-
 FROM phusion/baseimage:0.9.15
 
 MAINTAINER Dominique Ronde <dominique.ronde@codecentric.de
